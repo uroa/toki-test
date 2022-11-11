@@ -29,3 +29,7 @@
   .sticky + .content {
     padding-top: 60px;
   }
+
+  .next-page {
+    font-size: 30px;
+  }
