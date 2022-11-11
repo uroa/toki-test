@@ -15,3 +15,9 @@ function myFunction() {
     navbar.classList.remove("sticky");
   }
 }
+
+document.getElementById("pages").onchange = function() {
+  if (this.selectedIndex!==0) {
+      window.location.href = this.value;
+  }        
+};
