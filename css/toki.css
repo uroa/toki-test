@@ -30,6 +30,6 @@
     padding-top: 60px;
   }
 
-  .next-page {
+  .next-page, .prev-page {
     font-size: 30px;
   }
